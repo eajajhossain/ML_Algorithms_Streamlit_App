@@ -95,4 +95,4 @@ Go to: http://localhost:8501
 
 ---
 
-Built with ❤️ using Streamlit, Plotly, and Scikit-learn
+Built by Eajaj Hossain
